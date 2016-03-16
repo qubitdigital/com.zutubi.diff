@@ -1,6 +1,5 @@
 apply plugin: 'java'
 
-group = 'com.zutubi.diff'
 version = '3.0'
 sourceCompatibility = 1.5
 
